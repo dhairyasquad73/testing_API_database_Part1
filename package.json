@@ -6,7 +6,23 @@
   },
   "dependencies": {
     "body-parser": "^1.20.3",
-    "express": "^4.18.2",
+    "express": "^4.21.2",
     "nodemon": "^3.1.7"
-  }
+  },
+  "version": "1.0.0",
+  "description": "You are a developer for an educational analytics platform that helps teachers evaluate students' performance. The platform maintains student records, including their names, grades, and marks in multiple subjects, stored in a JSON format.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhairyasquad73/testing_API_database_Part1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dhairyasquad73/testing_API_database_Part1/issues"
+  },
+  "homepage": "https://github.com/dhairyasquad73/testing_API_database_Part1#readme"
 }
